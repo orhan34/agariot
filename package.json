@@ -1,0 +1,23 @@
+{
+  "name": "agariot",
+  "version": "3.7.0",
+  "description": "Agariot Server Files",
+  "main": "src/index.js",
+  "dependencies": {
+    "ws": "^0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orhan34/agariot"
+  },
+  "author": "Agario - 08.2015 agariot.com",
+  "license": "Apache License 5.0",
+  "bugs": {
+    "url": "https://github.com/orhan34/"
+  },
+  "homepage": "https://github.com/orhan34/agariot"
+}
